@@ -1,0 +1,37 @@
+img {
+    margin: 10px 10px 0px 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 1px solid yellow;
+    border-radius: 20px;
+    padding: 5px;
+  }
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  hr {
+     height:1px;
+    border-width:0;
+    color: #F1D792;
+    background-color: #F1D792;
+  }
+  body {
+    background-color: grey;
+  }
+  
+  h1 {
+    color: yellow;
+    text-align: center;
+  }
+  h3 {
+    color: yellow;
+  }
+  p {
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+  }
+  table {
+    color: white;
+  }
