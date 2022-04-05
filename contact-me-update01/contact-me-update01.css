@@ -1,0 +1,35 @@
+form {/* Center the form on the page */
+  margin: 0 auto; width: 400px; height: 650px;
+  /* Form outline */
+  padding: 50px; border: 3px solid #9900F0; border-radius: 4em; 
+  background-color: #8479E1; border-bottom: 2px solid black;}
+
+ul {list-style: none; padding: 20px 0px; margin: 0;}
+
+form li + li {margin-top: 10px; text-align: left;}
+
+label {/* Uniform size & alignment */
+  text-align: left; font: arial black; font-weight: bold;  
+  color: #370665;}
+
+legend {font-size: 25px; font-style: bogart, recoleta, helvetica neue; text-align: center;}
+
+h1 {color: #370665; padding: 20px 10px; }
+p {padding: 0px 30px; letter-spacing: 1px; overflow: auto; line-height: 1em;}
+h3 {color: Cyan; }
+
+input[type="text"] {background-color: #FFDDEE;  border-radius: 10px; width: 100%; padding: 5px 10px;}
+input[type="email"] {background-color: #FFDDEE;  border-radius: 10px; width: 100%; padding: 5px 10px;}
+button[type="submit"] {background-color: #7900FF; color: cyan; border-radius: 10px; margin: 8px 0;  width: 100%; padding: 5px 10px;}
+button[type="reset"] {background-color: #370665; color: #7C83FD; border-radius: 10px; margin: 8px 0;  width: 100%; padding: 5px 10px;}
+
+input, textarea {/* To make sure that all text fields have the same font settings. By default, textareas have a monospace font */
+  font: 1em sans-serif; color: #7900FF;
+  /* Uniform text field size */ width: 100%; padding: 5px 10px; 
+  /* Match form field borders */ border: 2px solid; border-color: pink; background-color: #FFDDEE;}
+
+textarea {
+  /* Align multiline text fields with their labels */ vertical-align: top; 
+  /* Provide space to type some text */ height: 5em;}
+
+
