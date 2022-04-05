@@ -1,4 +1,4 @@
 # html-cv
-This was made after watching the "Intermediate HTML" videos from Dr. Angela's Yu course.
+This was made after watching the "Intermediate HTML" and the "Introduction to CSS" videos from Dr. Angela's Yu course.
 
-https://deboracode.github.io/html-cv/
+Output: https://deboracode.github.io/html-cv/
